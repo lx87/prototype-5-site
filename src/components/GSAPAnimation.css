@@ -1,0 +1,25 @@
+.gsap-animation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pulse-circle {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    box-shadow: 0 0 20px rgba(102, 126, 234, 0.5);
+}
+
+.bounce-ball {
+    font-size: 60px;
+}
+
+.shake-icon {
+    font-size: 60px;
+}
+
+.fade-text {
+    font-size: 60px;
+}
